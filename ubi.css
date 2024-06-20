@@ -1,0 +1,13 @@
+.ubi{
+    background-color: #212529;
+padding: 1rem;
+
+margin-top: 3rem;
+box-sizing: border-box;
+}
+footer{
+display: block;
+
+unicode-bidi: isolate;
+
+}
